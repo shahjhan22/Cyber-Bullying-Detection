@@ -1,7 +1,4 @@
 # Cyber-Bullying-Detection
-
-This repository contains a Flask-based cyberbullying detection system that identifies and classifies toxic online content. The system leverages machine learning models trained to recognize harmful language and is optimized for accuracy and efficiency, ensuring a safe digital experience.
-
 ## Problem Statement
 
 Cyberbullying is a growing concern in online communities, with individuals increasingly exposed to harmful content. This project aims to automatically detect and classify cyberbullying content from non-toxic content using machine learning. By automating this detection, we aim to help platforms, moderators, and users proactively address and reduce online harassment.
@@ -14,7 +11,6 @@ Cyberbullying is a growing concern in online communities, with individuals incre
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Selected Models](#selected-models)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
-- [Working Flow](#working-flow)
 - [Conclusion](#conclusion)
 
 ## Project Demo
